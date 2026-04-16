@@ -1,3 +1,34 @@
 SQL Comic Series: Day 01–30
 
 30‑day SQL comic series could make learning databases way more fun and memorable. To get started, here’s a Day‑by‑Day storyline outline you could use to build comics that progress from beginner to advanced concepts
+Day	Theme	Comic Idea
+01	Introduction to Databases	A character discovers a messy filing cabinet and learns about databases as “organized digital cabinets.”
+02	Tables & Rows	Characters see tables as spreadsheets with rows of “citizens” and columns as “attributes.”
+03	Basic SELECT	A detective uses SELECT * to “interrogate” all suspects in a table.
+04	Filtering with WHERE	A superhero only saves people “WHERE danger = true.”
+05	ORDER BY	A librarian sorts books by title or year.
+06	LIMIT	A chef serves only the “top 5 dishes” from the menu.
+07	DISTINCT	A magician removes duplicates from a deck of cards.
+08	Aggregate Functions	Characters count (COUNT), measure (SUM), and average (AVG) treasure.
+09	GROUP BY	Pirates group loot by type: gold, gems, maps.
+10	HAVING	A judge only allows groups “HAVING more than 10 coins.”
+11	INSERT	A farmer plants new “rows” of crops in the table field.
+12	UPDATE	A painter updates the color of houses in a row.
+13	DELETE	A janitor deletes unwanted rows from a messy table.
+14	Primary Keys	A kingdom gives each citizen a unique ID crown.
+15	Foreign Keys	Two villages connect citizens through family ties.
+16	INNER JOIN	Two puzzle pieces fit perfectly where data overlaps.
+17	LEFT JOIN	A spotlight shows all from the left table, even if lonely.
+18	RIGHT JOIN	Reverse spotlight from the right table.
+19	FULL OUTER JOIN	A festival where everyone is invited, matched or not.
+20	Subqueries	A spy mission inside another mission.
+21	Views	A window showing a simplified version of the castle.
+22	Indexes	A librarian adds an index card to find books faster.
+23	Constraints	Guards enforce rules: “No NULL names allowed!”
+24	Transactions	A shopkeeper ensures all steps succeed or none happen.
+25	COMMIT & ROLLBACK	A wizard commits spells or rolls them back if wrong.
+26	Normalization	A messy room gets organized into smaller neat rooms.
+27	Stored Procedures	A robot executes pre‑written instructions.
+28	Triggers	A trapdoor activates automatically when a condition is met.
+29	Advanced Joins (Self Join, Cross Join)	Characters clone themselves or mix randomly at a party.
+30	Final Project	Heroes build a complete comic “Database Adventure” using all skills learned.
